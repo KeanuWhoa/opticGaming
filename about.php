@@ -1,0 +1,21 @@
+<?php include('components/header_common.php'); include('components/header.php'); ?>
+
+<div class="topContent">
+	<div class="wrapper">
+		<h2 class="subHeaderTitle">About</h2>
+		<div class="contentArea">
+			<h2>History</h2>
+			<p>In the summer of 2006, a group of friends with a thirst for competitive Call of Duty developed their own team and began the brand known as OpTic Gaming. The team co-founder OpTicJ, formerly known as OpTic Jon3s, consistently tried to find matches for the team to compete in. However, OpTic was sponsored by NxGamers and was forced to solely compete in matches hosted by the organization&rsquo;s website. Without the widespread use of capture cards and live stream platforms to record match results, teams were forced to rely on virtual referees to spectate and verify competitions.</p>
+			<p>Unfortunately, the lack of referees often forced teams to cancel scheduled games, but in the midst of this issue, a new official named Plague Prestige volunteered to referee one of OpTic&rsquo;s matches. From that point, Prestige developed a consistent presence and continued to frequently spectate competitions. Because of this, the referee developed a friendship with OpTicJ, and as the summer progressed, the team decided to make Prestige a member of OpTic Gaming.</p>
+			<p>Welcoming Prestige into OpTic was a sensitive situation and would undoubtedly create a conflict of interest in the NxGamers organization, however, as the summer came to a close, Prestige was welcomed into the team where he became known as OpTic H3CZ. H3CZ left his position as a virtual referee a year later and teamed with OpTicJ and OpTic Carlton in the team&rsquo;s first ever live tournament at The Hardknocks in Orlando, Florida. H3CZ, OpTicJ, and OpTic Carlton led the team to a 3rd place finish.</p>
+			<p>A year later, OpTicJ passed the reins to H3CZ. Coupled with his brother OpTic Tumors, H3CZ established OpTic Gaming as a dominant sniping team in Call of Duty: Modern Warfare and Call of Duty: Modern Warfare 2. As the OpTic Gaming sniper revolution continued, and gaming became more of a sharable social experience on YouTube, H3CZ soon created the groundwork for <a href="http://www.youtube.com/user/OpTicNation" target="_blank">OpTic Nation</a>. In 2009, H3CZ launched his first sniper montage where it quickly exploded on YouTube.</p>
+			<p>In 2009, H3CZ launched his first sniper montage and it quickly exploded on the YouTube scene. The OpTic Nation YouTube channel and OpTic brand immediately grew into the gaming giant the world knows today.</p>
+			<p>While the team pushed to maintain their identity as the leading sniping team in Call of Duty, their love for eSports never waned. To make his vision of a pro team a reality, H3CZ began to look outside of the team&rsquo;s current skill set. He needed a team with versatility and a solid understanding of the competitive Call of Duty environment. He solved this by teaming with OpTic Di3sel to recruit the team Dominance, a competitive Call of Duty: Modern Warfare 2 organization that was fresh on the scene and making waves on Gamebattles.</p>
+			<p>OpTic Di3sel became the team&rsquo;s first competitive captain and skillfully lead OpTic to a 3rd place finish in Machinima&rsquo;s Frag Cup tournament. The adoption of Dominance into the OpTic brand paved the way for America&rsquo;s Favorite Gamer: OpTic Nadeshot. In the midst of Modern Warfare 3&rsquo;s duration, Nadeshot became the captain of the OpTic competitive team responsible for winning the first ever Call of Duty XP Championship in 2011.</p>
+			<p>As time passed and new Call of Duty games appeared, OpTic became the home to many great figures such as OpTic BigTymer&ndash;one of the greatest Call of Duty players of all time.</p>
+			<p>Today, OpTic Gaming continues to make a critical footprint in the evolving eSports and video game community with two top Call of Duty teams and popular YouTube directors, but it has never lost sight of the relationships that made the OpTic movement a reality. H3CZ and OpTicJ, coupled with close friends OpTic Di3sel, Hutch, and Fwiz, continue their passion for gaming as the Old Men of OpTic, a sloppy team of amateurs doing what they do best: gaming and friendship.</p>
+		</div>
+	</div>
+</div>
+
+<?php include('components/footer.php');?>
